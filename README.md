@@ -16,7 +16,7 @@ My name is Rafael, I have a BSc in Computer Science and I'm currently a master's
 
 **You can find me on:**
 
-[![Instagram](https://img.shields.io/badge/rafaelstjf-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&)](https://www.instagram.com/rafaelstjf) [![Twitter](https://img.shields.io/badge/Rafaelstjf-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Rafaelstjf) <a href="mailto:rafaelstjf@gmail.com"><img src="https://img.shields.io/badge/rafaelstjf-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&)](https://www.instagram.com/rafaelstjf) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Rafaelstjf) <a href="mailto:rafaelstjf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 ---
 ![](https://komarev.com/ghpvc/?username=rafaelstjf&style=flat-square&color=64C9CF&label=PROFILE+VIEWS)
 
