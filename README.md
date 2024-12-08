@@ -6,9 +6,9 @@
 My name is Rafael, I have a BSc in Computer Science and I'm currently a master's degree student in computational modeling at National Laboratory for Scientific Computing (LNCC).
 
 **My interests at this moment are:**
-- 🧬 Phylogenetics (mainly phylogenetic networks)
 - 💻 Scientific workflows
 - 👩‍💻 High Performance Computing (HPC)
+- 🧬 Bioinformatics
 
 **My favorite programming languages:**
 
